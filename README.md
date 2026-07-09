@@ -5,15 +5,18 @@
 
 ---
 
-**About Me**
-
-🎓 Software Engineering Student at Addis Ababa Science and Technology University  
-💻 Full-Stack Developer passionate about building scalable web applications with AI integration  
-🤖 AI & Machine Learning Enthusiast exploring the potential of deep learning  
-⚡ Experienced with React, Node.js, Python, Django, Typescript and Tensorflow  
-🌱 Always learning: New technologies, best practices, and industry trends  
-🤝 Open to: Contributing to open-source projects and mentoring aspiring developers  
-🇪🇹 Proudly Ethiopian: Committed to contributing to Ethiopia's growing tech ecosystem
+<div align="left">
+  <h3>About Me</h3>
+  <p style="font-size: 16px; line-height: 1.8; margin: 0;">
+    🎓 Software Engineering Student at Addis Ababa Science and Technology University<br>
+    💻 Full-Stack Developer passionate about building scalable web applications with AI integration<br>
+    🤖 AI & Machine Learning Enthusiast exploring the potential of deep learning<br>
+    ⚡ Experienced with React, Node.js, Python, Django, Typescript and Tensorflow<br>
+    🌱 Always learning: New technologies, best practices, and industry trends<br>
+    🤝 Open to: Contributing to open-source projects and mentoring aspiring developers<br>
+    🇪🇹 Proudly Ethiopian: Committed to contributing to Ethiopia's growing tech ecosystem
+  </p>
+</div>
 ---
 
 ## 🌱 Currently Learning
