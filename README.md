@@ -87,18 +87,139 @@
 ![Full-Stack Development](https://img.shields.io/badge/-Full--Stack_Web_Development-24292e?style=flat&logo=github&logoColor=white)
 
 ---
-📫 **See More and Follow me on**  
-- [LinkedIn](https://www.linkedin.com/in/amir-yimam1)
-- [Instagram](https://www.instagram.com/in/amir._y6) <!-- Replace with your actual username if available -->
 ---
-📫 **How to reach me:**  
 
-- [Telegram](https://t.me/Mirrr114)
-- [WhatsApp](https://wa.me/251990471295)   
-- 📧 Email: [amiryimam111@gmail.com](mailto:amiryimam111@gmail.com)  
+## 📫 Connect With Me
 
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/amir-yimam1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/amir._y6" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://t.me/Mirrr114" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://wa.me/251990471295" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="mailto:amiryimam111@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://amiryimam-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  
+</div>
 
-✅ **Check my [Portfolio](https://amiryimam-portfolio.netlify.app/)** for more information about my skills and experiences.
+---
+
+## 💼 Let's Work Together
+
+<div align="center">
+  <p style="font-size: 16px; color: #4a5568;">
+    🌟 Open to collaborations, internships, and exciting projects!
+  </p>
+  <p style="font-size: 16px; color: #4a5568;">
+    📩 Feel free to reach out – let's build something amazing!
+  </p>
+</div>
+
+---
+
+## 👀 Profile Visitors
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hayat9355&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+---
+
+## 🔗 Quick Links
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <a href="https://www.linkedin.com/in/amir-yimam1" style="text-decoration: none;">
+          <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/><br>
+          <span style="font-size: 14px; color: #0A66C2;">LinkedIn</span>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://www.instagram.com/amir._y6" style="text-decoration: none;">
+          <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30"/><br>
+          <span style="font-size: 14px; color: #E4405F;">Instagram</span>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://t.me/Mirrr114" style="text-decoration: none;">
+          <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="30"/><br>
+          <span style="font-size: 14px; color: #26A5E4;">Telegram</span>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://wa.me/251990471295" style="text-decoration: none;">
+          <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="30"/><br>
+          <span style="font-size: 14px; color: #25D366;">WhatsApp</span>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="mailto:amiryimam111@gmail.com" style="text-decoration: none;">
+          <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30"/><br>
+          <span style="font-size: 14px; color: #EA4335;">Email</span>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://amiryimam-portfolio.netlify.app/" style="text-decoration: none;">
+          <img src="https://img.icons8.com/color/48/000000/domain.png" width="30"/><br>
+          <span style="font-size: 14px; color: #FF5722;">Portfolio</span>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## ⭐ Support My Work
+
+<div align="center">
+  <p style="font-size: 15px; color: #4a5568;">
+    If you like my work, consider giving a ⭐ to my repositories!
+  </p>
+  <p style="font-size: 15px; color: #4a5568;">
+    Your support keeps me motivated! 🚀
+  </p>
+</div>
+
+---
+
+**OR even simpler with centered badge icons:**
+
+```markdown
+---
+
+<div align="center">
+  
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-yimam1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amir._y6)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mirrr114)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/251990471295)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiryimam111@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://amiryimam-portfolio.netlify.app/)
+
+### 💼 Open to Opportunities
+
+🌟 I'm always open to collaborating on exciting projects and internships!
+
+</div>
+
+---
 
 
 
