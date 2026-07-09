@@ -5,41 +5,15 @@
 
 ---
 
-<div align="left">
-  <h2 style="font-size: 28px; font-weight: 700; margin-bottom: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    🚀 About Me
-  </h2>
-  
-  <div style="font-size: 16px; line-height: 2.2; padding: 20px; background: #f8f9fa; border-radius: 10px; border-left: 4px solid #667eea;">
-    <p style="margin: 8px 0; font-weight: 500;">
-      <span style="font-size: 20px;">🎓</span> <strong style="color: #2d3748; font-size: 17px;">Software Engineering Student</strong> <span style="color: #4a5568; font-size: 15px;">at Addis Ababa Science and Technology University</span>
-    </p>
-    
-    <p style="margin: 8px 0; font-weight: 500;">
-      <span style="font-size: 20px;">💻</span> <strong style="color: #2d3748; font-size: 17px;">Full-Stack Developer</strong> <span style="color: #4a5568; font-size: 15px;">passionate about building scalable web applications with AI integration</span>
-    </p>
-    
-    <p style="margin: 8px 0; font-weight: 500;">
-      <span style="font-size: 20px;">🤖</span> <strong style="color: #2d3748; font-size: 17px;">AI & Machine Learning Enthusiast</strong> <span style="color: #4a5568; font-size: 15px;">exploring the potential of deep learning</span>
-    </p>
-    
-    <p style="margin: 8px 0; font-weight: 500;">
-      <span style="font-size: 20px;">⚡</span> <strong style="color: #2d3748; font-size: 17px;">Experienced with</strong> <span style="color: #4a5568; font-size: 15px;">React, Node.js, Python, Django, Typescript and Tensorflow</span>
-    </p>
-    
-    <p style="margin: 8px 0; font-weight: 500;">
-      <span style="font-size: 20px;">🌱</span> <strong style="color: #2d3748; font-size: 17px;">Always learning:</strong> <span style="color: #4a5568; font-size: 15px;">New technologies, best practices, and industry trends</span>
-    </p>
-    
-    <p style="margin: 8px 0; font-weight: 500;">
-      <span style="font-size: 20px;">🤝</span> <strong style="color: #2d3748; font-size: 17px;">Open to:</strong> <span style="color: #4a5568; font-size: 15px;">Contributing to open-source projects and mentoring aspiring developers</span>
-    </p>
-    
-    <p style="margin: 8px 0; font-weight: 500;">
-      <span style="font-size: 20px;">🇪🇹</span> <strong style="color: #2d3748; font-size: 17px;">Proudly Ethiopian:</strong> <span style="color: #4a5568; font-size: 15px;">Committed to contributing to Ethiopia's growing tech ecosystem</span>
-    </p>
-  </div>
-</div>
+### 🚀 About Me
+
+🎓 **Software Engineering Student** at Addis Ababa Science and Technology University  
+💻 **Full-Stack Developer** passionate about building scalable web applications with AI integration  
+🤖 **AI & Machine Learning Enthusiast** exploring the potential of deep learning  
+⚡ **Experienced with** React, Node.js, Python, Django, Typescript and Tensorflow  
+🌱 **Always learning:** New technologies, best practices, and industry trends  
+🤝 **Open to:** Contributing to open-source projects and mentoring aspiring developers  
+🇪🇹 **Proudly Ethiopian:** Committed to contributing to Ethiopia's growing tech ecosystem
 ---
 
 ## 🌱 Currently Learning
