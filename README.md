@@ -11,38 +11,32 @@
 
 <p>
   <span style="font-size: 20px;">🎓</span> 
-  <strong style="font-size: 18px; color: #2d3748;">Software Engineering Student</strong> 
-  <span style="font-size: 15px; color: #4a5568;">at Addis Ababa Science and Technology University</span>
+  <strong style="font-size: 19px; color: #2d3748;">Software Engineering Student</strong> 
+  <span style="font-size: 18px; color: #4a5568;">at Addis Ababa Science and Technology University</span>
   <br><br>
-  
   <span style="font-size: 20px;">💻</span> 
-  <strong style="font-size: 18px; color: #2d3748;">Full-Stack Developer</strong> 
-  <span style="font-size: 15px; color: #4a5568;">passionate about building scalable web applications with AI integration</span>
+  <strong style="font-size: 19px; color: #2d3748;">Full-Stack Developer</strong> 
+  <span style="font-size: 18px; color: #4a5568;">passionate about building scalable web applications with AI integration</span>
   <br><br>
-  
   <span style="font-size: 20px;">🤖</span> 
-  <strong style="font-size: 18px; color: #2d3748;">AI & Machine Learning Enthusiast</strong> 
-  <span style="font-size: 15px; color: #4a5568;">exploring the potential of deep learning</span>
+  <strong style="font-size: 19px; color: #2d3748;">AI & Machine Learning Enthusiast</strong> 
+  <span style="font-size: 18px; color: #4a5568;">exploring the potential of deep learning</span>
   <br><br>
-  
   <span style="font-size: 20px;">⚡</span> 
-  <strong style="font-size: 18px; color: #2d3748;">Experienced with</strong> 
-  <span style="font-size: 15px; color: #4a5568;">React, Node.js, Python, Django, Typescript and Tensorflow</span>
+  <strong style="font-size: 19px; color: #2d3748;">Experienced with</strong> 
+  <span style="font-size: 18px; color: #4a5568;">React, Node.js, Python, Django, Typescript and Tensorflow</span>
   <br><br>
-  
   <span style="font-size: 20px;">🌱</span> 
-  <strong style="font-size: 18px; color: #2d3748;">Always learning:</strong> 
-  <span style="font-size: 15px; color: #4a5568;">New technologies, best practices, and industry trends</span>
+  <strong style="font-size: 19px; color: #2d3748;">Always learning:</strong> 
+  <span style="font-size: 18px; color: #4a5568;">New technologies, best practices, and industry trends</span>
   <br><br>
-  
   <span style="font-size: 20px;">🤝</span> 
-  <strong style="font-size: 18px; color: #2d3748;">Open to:</strong> 
-  <span style="font-size: 15px; color: #4a5568;">Contributing to open-source projects and mentoring aspiring developers</span>
+  <strong style="font-size: 19px; color: #2d3748;">Open to:</strong> 
+  <span style="font-size: 18px; color: #4a5568;">Contributing to open-source projects and mentoring aspiring developers</span>
   <br><br>
-  
   <span style="font-size: 20px;">🇪🇹</span> 
-  <strong style="font-size: 18px; color: #2d3748;">Proudly Ethiopian:</strong> 
-  <span style="font-size: 15px; color: #4a5568;">Committed to contributing to Ethiopia's growing tech ecosystem</span>
+  <strong style="font-size: 19px; color: #2d3748;">Proudly Ethiopian:</strong> 
+  <span style="font-size: 18px; color: #4a5568;">Committed to contributing to Ethiopia's growing tech ecosystem</span>
 </p>
 
 </div>
