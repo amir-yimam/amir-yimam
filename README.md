@@ -129,14 +129,6 @@
 
 ---
 
-## 👀 Profile Visitors
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hayat9355&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
-
 ## 🔗 Quick Links
 
 <div align="center">
@@ -196,34 +188,4 @@
 </div>
 
 ---
-
-**OR even simpler with centered badge icons:**
-
-```markdown
----
-
-<div align="center">
-  
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-yimam1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amir._y6)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mirrr114)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/251990471295)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiryimam111@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://amiryimam-portfolio.netlify.app/)
-
-### 💼 Open to Opportunities
-
-🌟 I'm always open to collaborating on exciting projects and internships!
-
-</div>
-
----
-
-
-
-  
-
-
 
