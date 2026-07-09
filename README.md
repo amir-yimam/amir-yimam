@@ -6,7 +6,7 @@
 ---
 
 <div align="left">
-  <h3>About Me</h3>
+  <h3>🚀 About Me</h3>
   <p style="font-size: 16px; line-height: 1.8; margin: 0;">
     🎓 Software Engineering Student at Addis Ababa Science and Technology University<br>
     💻 Full-Stack Developer passionate about building scalable web applications with AI integration<br>
